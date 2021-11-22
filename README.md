@@ -1,4 +1,4 @@
-# Analysis of Critical Values of Respond Rate (RR) in Two-Stage Single-Arm Phase II Clinical Trials
+# Analysis of Critical Values of Respond Rate (RR) in Single-Arm Two-Stage Phase II Clinical Trials
 
 Yi Liu 
 
