@@ -7,10 +7,6 @@
 # Author: Yi Liu
 # Create date: 09/25/2021
 
-# Working path using Duke Computer Cluster (DCC)
-# Don't run this on your server; please modify the path if necessary
-# setwd("/hpc/home/yl724")
-
 source("design_FS_func.R")
 
 data_FS <- function(alpha, power, diff=0.2, p0.min=0.05, p0.max=0.7, p0.incre=0.005) {
