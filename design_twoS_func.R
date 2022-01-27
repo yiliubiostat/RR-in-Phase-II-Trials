@@ -181,12 +181,6 @@ design_twoS <- function(desired.alpha, desired.power,
                                  alpha = alpha, power = power)
     return(optimal.design)
   }
-  
 }
 
-
-
 # ~~~~~~~~~~~~~~~~~~~~~~ END of the program ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
