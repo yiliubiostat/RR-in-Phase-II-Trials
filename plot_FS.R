@@ -122,14 +122,3 @@ dev.off()
 
 f.table <- SumStat.FS(dataset = ls6.1)
 xtable(f.table, digits=3)
-
-
-
-
-
-
-
-
-
-
-
